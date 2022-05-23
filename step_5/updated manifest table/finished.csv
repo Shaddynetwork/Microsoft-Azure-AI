@@ -1,0 +1,7 @@
+First Name,Flight No,Origin,Destination,Date,Time,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation,NameValidation
+ James,UA-123,San Francisco, New York, 10 July 2021, 10:00,Webb, M,10A,1970-12-15,False,False,False,False,False,
+ James,UA-123,San Francisco, New York, 10 July 2021, 10:00, Jackson, M,25B,1956-10-12,False,False,False,False,False,
+ Libby ,UA-123,San Francisco, New York, 10 July 2021, 10:00,Herold, F,3D,1996-02-10,False,False,False,False,False,
+Sameer,UA-123,San Francisco, New York,2021-07-10 00:00:00,10:00:00,Kumar,M,34A,1990-01-25,False,False,False,False,False,
+Radha,UA-124,San Francisco, New York,2021-07-10 00:00:00,10:00:00,S Kumar ,F,34B,1994-04-05,False,False,False,False,False,
+Shadrack,UA-123,San Francisco, Chicago,2021-07-10 00:00:00,10:00:00,Darku ,X,12A,1995-07-05,True,True,False,False,True,True

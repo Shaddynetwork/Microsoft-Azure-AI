@@ -1,0 +1,38 @@
+
+
+All libraries used in this Prject:
+
+1. Pandas
+
+2. Numpy
+
+3.
+
+4. requests
+5. urllib.parse 
+6. io 
+7. PIL 
+8. matplotlib
+
+9. os, time, uuid
+
+10.  datetime
+11.  glob
+
+12. video_indexer import VideoIndexer
+
+13. azure.cognitiveservices.vision.face 
+
+14. azure.cognitiveservices.vision.face.models
+
+15. msrest
+
+16. azure.core.credentials 
+17. azure.core.credentials 
+18. azure.ai.formrecognizer 
+
+
+19. azure.core.exceptions 
+20. azure.ai.formrecognizer 
+21.  azure.ai.formrecognizer 
+
